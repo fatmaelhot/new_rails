@@ -7,3 +7,6 @@ one:
 two:
   title: MyString
   body: MyText
+
+# one: {}
+# two: {}
